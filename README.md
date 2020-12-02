@@ -12,6 +12,6 @@ That is all this plugin does at this time.
 `wp uas getNewSupportEmails`
 
 
-#Warning
+# Warning
 
 No checking is done to make sure Awsome Support or it's required email piping plugin are installed. Use at your own risk. MIT license.
